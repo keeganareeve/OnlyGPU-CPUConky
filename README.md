@@ -34,13 +34,15 @@ Go into new conky directory.\
 ```
 cd ~/.config/conky\
 ```
-Run conky with new config file!\
+Run conky with new config file in the directory!\
 ```
 conky -dbc conky.conf
 ```
-OR
+Or outside the directory like
 ```
 conky -dbc ~/.config/conky/conky.conf
 ```
+Celebrate! You now can see the GPU and CPU in the corner of your screen without anything else.
+You can experiment with the colors or anything else. Just remember to restore if needed. ))
 
 ## On my machine, the results look like this!\
