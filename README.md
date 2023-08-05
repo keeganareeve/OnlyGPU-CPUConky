@@ -48,4 +48,11 @@ You can experiment with the colors or anything else. Just remember to restore if
 ## On my machine, the results look like this!  
 On the Desktop itself:  
 
+![first](https://github.com/keeganareeve/OnlyGPU-CPUConky/assets/115120316/b36a3b74-617e-4ec8-941a-2e6ca8d984b3)
+
+
 And while on github (it can still be visible):  
+
+![second](https://github.com/keeganareeve/OnlyGPU-CPUConky/assets/115120316/540b79f0-c432-482d-8b43-ff80e515fc93)
+
+
