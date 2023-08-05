@@ -1,0 +1,39 @@
+### Instructions for Using My Custom Conf File for Conky ###
+### [Source:
+### https://www.reddit.com/r/conky/comments/bcfw35/how_do_i_make_custom_conky_widgets_and_themes/
+### (In the original reddit answer, .conf seems to be wrongly spelled as .config)
+### ]
+#
+#
+#
+# [One time commands:]
+#
+# Make directory for custom configs (if not made already).
+#
+mkdir ~/.conf/conky
+#
+# Copy file from this folder to use custom config file
+# ("[...]" depends where you cloned this folder).  
+#
+cp [...]/conky.conf ~/.config/conky
+#
+# Copy file from the default files to restore (if needed).
+#
+cp /etc/conky/conky.conf ~/.config/conky
+#
+#
+#
+# [Commands to use everytime
+# (unless conky's set to start with computer's start up):]
+#
+# Go into new conky directory.
+#
+cd ~/.config/conky
+#
+# Run conky with new config file!
+#
+conky -dbc conky.conf
+#
+# OR
+#
+conky -dbc ~/.config/conky/conky.conf
