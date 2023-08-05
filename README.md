@@ -17,9 +17,9 @@ Make directory for custom configs (if not made already).\
 mkdir ~/.conf/conky\
 ```
 Copy file from this folder to use custom config file\
-(second filepath depends where you cloned this folder).\
+(first filepath depends where you cloned this folder).\
 ```
-cp ~/new_conf_conky/conky.conf ~/.config/conky\
+cp ~/OnlyGPU-CPUConky/conky.conf ~/.config/conky\
 ```
 Copy file from the default files to restore (if needed).\
 
