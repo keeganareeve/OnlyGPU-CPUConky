@@ -49,7 +49,7 @@ You can experiment with the colors or anything else. Just remember to restore if
 On the Desktop itself:  
 
 ![first](https://github.com/keeganareeve/OnlyGPU-CPUConky/assets/115120316/b36a3b74-617e-4ec8-941a-2e6ca8d984b3)
-
+<img src="https://github.com/keeganareeve/OnlyGPU-CPUConky/assets/115120316/b36a3b74-617e-4ec8-941a-2e6ca8d984b3" width="600" height="300>
 
 And while on github (it can still be visible):  
 
