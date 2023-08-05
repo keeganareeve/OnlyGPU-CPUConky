@@ -46,3 +46,6 @@ Celebrate! You now can see the GPU and CPU in the corner of your screen without 
 You can experiment with the colors or anything else. Just remember to restore if needed. ))
 
 ## On my machine, the results look like this!  
+On the Desktop itself:  
+
+And while on github (it can still be visible):  
