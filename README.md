@@ -2,12 +2,19 @@
 Custom config file to show only the GPU and CPU usage in Conky. Also contains instructions and example results.
 
 ## Instructions for Using My Custom Conf File for Conky
-(Instructions are also contained in instructions.txt)  
+(Instructions are also contained in instructions.txt).  
+
+Today I realized that it would be great to get someting just to keep track of my GPU and CPU usage when running various different programs *without any other information with it to confuse it more,* just
+like how in google colab, kaggle, etc., the GPU and CPU usage are alone on little bars that shorten and lengthen as you use the notebook kernel.
   
-Source:  
+I have to cite the following reddit post with the knowledge of how to get started, but I did edit the config file for my own purposes for my own laptop:
 https://www.reddit.com/r/conky/comments/bcfw35/how_do_i_make_custom_conky_widgets_and_themes/  
-(In the original reddit answer, .conf seems to be wrongly spelled as .config)  
-  
+(Note: In the original reddit answer, .conf seems to be wrongly spelled as .config)  
+
+Now I'd like the knowledge of how to get started effectively with Conky to be more accessible for more people, since the Conky documentation online is pretty sparse.  
+
+So, take this as more of a tutorial on how to get started configuring Conky! I actually had a lot of fun myself testing the different colors and positions I could try! I even tried putting lines (with $hr) in more different places in the Conky window (box?).
+
   
   
 ### One time commands  
