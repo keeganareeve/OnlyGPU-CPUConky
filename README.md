@@ -3,8 +3,11 @@ Custom config file to show only the GPU and CPU usage in Conky. Also contains in
 
 ## Instructions for Using My Custom Conf File for Conky
 (Instructions are also contained in instructions.txt)
+
 Source:
+
 https://www.reddit.com/r/conky/comments/bcfw35/how_do_i_make_custom_conky_widgets_and_themes/
+
 (In the original reddit answer, .conf seems to be wrongly spelled as .config)
 
 
